@@ -26,7 +26,7 @@ Project ini adalah skripsi saya yang mengembangkan sistem klasifikasi citra tana
 ## 💻 Cara Menjalankan Project Secara Lokal
 1. **Clone repository ini**
 ```bash
-git clone https://github.com/ruslialwin/plantmedic-classifier.git
+git clone https://github.com/ruslialwin/klasifikasi-tanaman-obat.git
 ```
 2. **Masuk ke folder project**
 ```bash
@@ -64,7 +64,7 @@ This is my thesis project that develops a medicinal plant image classification s
 ## 💻 How to Run the Project Locally
 1. **Clone this repository**
 ```bash
-git clone https://github.com/ruslialwin/plantmedic-classifier.git
+git clone https://github.com/ruslialwin/klasifikasi-tanaman-obat.git
 ```
 2. **Navigate into the project folder**
 ```bas
